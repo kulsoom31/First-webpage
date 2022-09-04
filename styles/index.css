@@ -1,0 +1,21 @@
+
+h1 {
+    color:black; 
+    font-size: 40px;
+    font-weight:400;
+    font-style:normal;
+    text-align:left;
+    background-color:grey;
+}
+ 
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: grey;
+    border: 5px solid gray;
+    border-top: 5px solid gray;
+    border-radius: 5px 10px 15px 20px;
+    box-shadow: 10px 10px 20px rgba(4, 0, 128, 0.817);   
+}
+
